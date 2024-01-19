@@ -1,4 +1,4 @@
-import apiLeiloes from '../services/apiLeiloes';
+import apiLeiloes from '../servicos/apiLeiloes';
 
 export async function obtemLeiloes() {
   try {

@@ -2,7 +2,7 @@ import React from 'react';
 
 import { View, Text, StyleSheet } from 'react-native';
 import { FontAwesome5 } from '@expo/vector-icons';
-import Cartao from '../../../components/Cartao';
+import Cartao from '../../../componentes/Cartao';
 
 import { formataDecimalParaReal } from '../../../negocio/formatadores/moeda';
 

@@ -2,7 +2,7 @@ import React from 'react';
 import 'intl';
 import 'intl/locale-data/jsonp/pt-BR';
 import { KeyboardAvoidingView, Platform, SafeAreaView, StatusBar, StyleSheet } from 'react-native';
-import AppRotas from './src/routes/AppRotas';
+import AppRotas from './src/rotas/AppRotas';
 
 export default function App() {
   return (
